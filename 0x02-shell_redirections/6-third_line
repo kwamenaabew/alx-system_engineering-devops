@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(head ./iacta)"
+echo "$(head ./0x02-shell_redirections/iacta)"
