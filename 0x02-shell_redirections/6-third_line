@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "$(head ./0x02-shell_redirections/iacta)"
+cat iacta | head -3 | tail -1
+
